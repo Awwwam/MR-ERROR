@@ -1,2 +1,2 @@
-import new
+import Semx
 new.mahadi()
