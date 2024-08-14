@@ -1,2 +1,2 @@
-import Semx
-new.mahadi()
+import error
+error.error()
